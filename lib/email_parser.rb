@@ -2,4 +2,4 @@
  
  attr_accessor :name, :csv_emails
  
- def 
+ def initialize
