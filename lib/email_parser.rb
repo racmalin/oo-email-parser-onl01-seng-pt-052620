@@ -1,2 +1,3 @@
  class EmailAddressParser 
- end
+ 
+ attr_accessor
